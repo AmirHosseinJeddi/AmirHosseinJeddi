@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER (optional: remove this <p> block if it fails to load) ===== -->
 <p align="center">
-  <img alt="Banner: MSc Student in Artificial Intelligence" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=220&section=header&text=Your%20Name&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MSc%20Student%20in%20Artificial%20Intelligence&descSize=20&descAlignY=58" width="100%">
+  <img alt="Banner: MSc Student in Artificial Intelligence" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=220&section=header&text=AmirHossein%20Jeddi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MSc%20Student%20in%20Artificial%20Intelligence&descSize=20&descAlignY=58" width="100%">
 </p>
 
 <!-- ===== ANIMATED TAGLINE (optional) ===== -->
