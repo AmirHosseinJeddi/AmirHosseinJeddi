@@ -69,7 +69,7 @@ I am interested in applying machine learning to biological data, especially canc
 flowchart LR
     A["Omics data<br/>expression · multi-omics · single-cell"] --> B["Representation<br/>learning"]
     B --> C["Graph-based<br/>models"]
-    C --> D["Prediction<br/>survival · drug response"]
+    C --> D["Predictive<br/>modeling"]
     D --> E["Biological<br/>interpretation"]
 ```
 
