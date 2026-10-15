@@ -5,7 +5,7 @@
 
 <!-- ===== ANIMATED TAGLINE (optional) ===== -->
 <p align="center">
-  <img alt="AI and machine learning for computational biology: multi-omics, graph learning, cancer genomics, single-cell analysis" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+for+Computational+Biology;Multi-omics+Integration;Graph+Learning;Cancer+Genomics;Single-cell+Analysis">
+  <img alt="AI and machine learning for computational biology: multi-omics, graph learning, cancer genomics, single-cell analysis" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=0F766E&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+for+Computational+Biology;Multi-omics+%C2%B7+Graph+Learning+%C2%B7+Cancer+Genomics+%C2%B7+Single-cell+Analysis">
 </p>
 
 <p align="center">
