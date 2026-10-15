@@ -148,23 +148,39 @@ I am interested in applying machine learning to biological data, especially canc
 
 ### 🌱 Areas I am exploring
 
-<p>
-  <img alt="Scanpy" src="https://img.shields.io/badge/Scanpy-9ca3af?style=flat-square">
-  <img alt="AnnData" src="https://img.shields.io/badge/AnnData-9ca3af?style=flat-square">
-  <img alt="Seurat" src="https://img.shields.io/badge/Seurat-9ca3af?style=flat-square">
-  <img alt="Biopython" src="https://img.shields.io/badge/Biopython-9ca3af?style=flat-square">
-  <img alt="Bioconductor" src="https://img.shields.io/badge/Bioconductor-9ca3af?style=flat-square">
-  <img alt="TCGA" src="https://img.shields.io/badge/TCGA-9ca3af?style=flat-square">
-  <img alt="GEO" src="https://img.shields.io/badge/GEO-9ca3af?style=flat-square">
-  <img alt="cBioPortal" src="https://img.shields.io/badge/cBioPortal-9ca3af?style=flat-square">
-  <img alt="STRING" src="https://img.shields.io/badge/STRING-9ca3af?style=flat-square">
-  <img alt="GCN and GAT" src="https://img.shields.io/badge/GCNs_%C2%B7_GATs-9ca3af?style=flat-square">
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-9ca3af?style=flat-square">
-  <img alt="GSEA, GO, KEGG" src="https://img.shields.io/badge/GSEA_%C2%B7_GO_%C2%B7_KEGG-9ca3af?style=flat-square">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Single-cell analysis" src="https://img.shields.io/badge/🌱_Single--cell_Analysis-0f766e?style=for-the-badge"><br><br>
+      <img alt="Scanpy" src="https://img.shields.io/badge/Scanpy-0f766e?style=flat-square">
+      <img alt="AnnData" src="https://img.shields.io/badge/AnnData-0f766e?style=flat-square">
+      <img alt="Seurat" src="https://img.shields.io/badge/Seurat-0f766e?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Bioinformatics" src="https://img.shields.io/badge/🌱_Bioinformatics-be185d?style=for-the-badge"><br><br>
+      <img alt="Biopython" src="https://img.shields.io/badge/Biopython-be185d?style=flat-square">
+      <img alt="Bioconductor" src="https://img.shields.io/badge/Bioconductor-be185d?style=flat-square">
+      <img alt="GSEA, GO and KEGG" src="https://img.shields.io/badge/GSEA_%C2%B7_GO_%C2%B7_KEGG-be185d?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Cancer genomics resources" src="https://img.shields.io/badge/🌱_Cancer_Genomics_Resources-c2410c?style=for-the-badge"><br><br>
+      <img alt="TCGA" src="https://img.shields.io/badge/TCGA-c2410c?style=flat-square">
+      <img alt="GEO" src="https://img.shields.io/badge/GEO-c2410c?style=flat-square">
+      <img alt="cBioPortal" src="https://img.shields.io/badge/cBioPortal-c2410c?style=flat-square">
+      <img alt="STRING" src="https://img.shields.io/badge/STRING-c2410c?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Graph learning" src="https://img.shields.io/badge/🌱_Graph_Learning-1d4ed8?style=for-the-badge"><br><br>
+      <img alt="GCNs and GATs" src="https://img.shields.io/badge/GCNs_%C2%B7_GATs-1d4ed8?style=flat-square">
+      <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-1d4ed8?style=flat-square">
+      <img alt="Graph representation learning" src="https://img.shields.io/badge/Graph_Representation_Learning-1d4ed8?style=flat-square">
+    </td>
+  </tr>
+</table>
 
-<sub>Grey badges mark topics and tools I am learning about, not areas of demonstrated expertise.</sub>
-
+<sub>🌱 Topics and tools I am learning about. These are not yet areas of demonstrated experience.</sub>
 <br>
 
 ## 🌱 Currently Learning
