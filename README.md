@@ -63,15 +63,52 @@ I am interested in applying machine learning to biological data, especially canc
 
 <br>
 
-### 🧭 Research direction I am interested in
+### 🧭 Research Direction
 
-```mermaid
-flowchart LR
-    A["Omics data<br/>expression · multi-omics · single-cell"] --> B["Representation<br/>learning"]
-    B --> C["Graph-based<br/>models"]
-    C --> D["Predictive<br/>modeling"]
-    D --> E["Biological<br/>interpretation"]
-```
+> My research interests lie at the intersection of **artificial intelligence, machine learning, and computational biology**, with a focus on bioinformatics and data-driven biological discovery. I am particularly interested in understanding complex biological systems and disease mechanisms through deep learning, causal inference, and explainable AI.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Multi-omics and single-cell" src="https://img.shields.io/badge/Multi--omics_%26_Single--cell-0f766e?style=for-the-badge"><br><br>
+      <img alt="Multi-omics data integration" src="https://img.shields.io/badge/Multi--omics_Integration-0f766e?style=flat-square">
+      <img alt="Single-cell genomics" src="https://img.shields.io/badge/Single--cell_Genomics-0f766e?style=flat-square">
+      <img alt="Single-cell transcriptomics" src="https://img.shields.io/badge/Single--cell_Transcriptomics-0f766e?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Cancer and disease biology" src="https://img.shields.io/badge/Cancer_%26_Disease_Biology-be185d?style=for-the-badge"><br><br>
+      <img alt="Cancer computational biology" src="https://img.shields.io/badge/Cancer_Computational_Biology-be185d?style=flat-square">
+      <img alt="Genetic variant interpretation" src="https://img.shields.io/badge/Genetic_Variant_Interpretation-be185d?style=flat-square">
+      <img alt="Disease mechanisms" src="https://img.shields.io/badge/Disease_Mechanisms-be185d?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Networks and graph learning" src="https://img.shields.io/badge/Networks_%26_Graph_Learning-1d4ed8?style=for-the-badge"><br><br>
+      <img alt="Biological network analysis" src="https://img.shields.io/badge/Biological_Network_Analysis-1d4ed8?style=flat-square">
+      <img alt="Graph neural networks" src="https://img.shields.io/badge/Graph_Neural_Networks-1d4ed8?style=flat-square">
+      <img alt="Gene regulatory networks" src="https://img.shields.io/badge/Gene_Regulatory_Networks-1d4ed8?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Structure and drug discovery" src="https://img.shields.io/badge/Structure_%26_Drug_Discovery-c2410c?style=for-the-badge"><br><br>
+      <img alt="Computational structural biology" src="https://img.shields.io/badge/Computational_Structural_Biology-c2410c?style=flat-square">
+      <img alt="AI-driven drug discovery" src="https://img.shields.io/badge/AI--Driven_Drug_Discovery-c2410c?style=flat-square">
+      <img alt="Drug response prediction" src="https://img.shields.io/badge/Drug_Response_Prediction-c2410c?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Deep learning and causality" src="https://img.shields.io/badge/Deep_Learning_%26_Causality-6d28d9?style=for-the-badge"><br><br>
+      <img alt="Deep learning" src="https://img.shields.io/badge/Deep_Learning-6d28d9?style=flat-square">
+      <img alt="Causal inference" src="https://img.shields.io/badge/Causal_Inference-6d28d9?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Explainable AI" src="https://img.shields.io/badge/Explainable_AI-15803d?style=for-the-badge"><br><br>
+      <img alt="Explainable AI for biology" src="https://img.shields.io/badge/Explainable_AI-15803d?style=flat-square">
+      <img alt="Complex biological systems" src="https://img.shields.io/badge/Complex_Biological_Systems-15803d?style=flat-square">
+    </td>
+  </tr>
+</table>
 
 <br>
 
